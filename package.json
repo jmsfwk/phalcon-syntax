@@ -10,8 +10,7 @@
     "volt",
     "php"
   ],
-  "repository": "https://github.com/atom/phalcon-syntax",
-  "license": "MIT",
+  "license": "CC BY 3",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
   }
