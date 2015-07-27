@@ -1,4 +1,7 @@
-# phalcon-syntax theme
+Phalcon syntax theme for Atom
+=============================
+[![Phalconist](http://phalconist.com/jmsfwk/phalcon-syntax/default.svg)](http://phalconist.com/jmsfwk/phalcon-syntax)
+
 
 A syntax theme based on the colours in the Phalcon docs.
 
