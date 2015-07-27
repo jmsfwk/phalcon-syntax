@@ -5,4 +5,4 @@ Phalcon syntax theme for Atom
 
 A syntax theme based on the colours in the Phalcon docs.
 
-![A screenshot of phalcon-syntax](Screenshot.png)
+![A screenshot of phalcon-syntax](https://github.com/jmsfwk/phalcon-syntax/blob/master/Screenshot.png)
